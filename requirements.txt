@@ -1,0 +1,14 @@
+pandas
+numpy
+tensorflow==1.14.0
+nltk
+openpyxl
+textblob
+sklearn
+xgboost
+keras
+wordcloud
+matplotlib
+seaborn
+textatistic
+spacy
