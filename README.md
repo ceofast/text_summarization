@@ -114,10 +114,7 @@ Enerji Şirketleri Misyon Vizyon Projesi/
 │   └── Enerji Şirketleri Misyon Vizyon.xlsx
 │
 ├── kodlar/
-│   ├── veri_on_isleme.py
-│   ├── model_mimarisi.py
-│   ├── model_egitimi.py
-│   └── değerlendirme.py
+│   ├── main.py
 │
 └── README.md
 ```
